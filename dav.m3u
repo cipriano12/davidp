@@ -1,0 +1,155 @@
+#EXTM3U
+#EXTINF:-1,BeinLaLiga ES
+http://w4.12all.tv:4000/play/beinlaliga/index.m3u8
+#EXTINF:-1,BeinSport1 FR
+http://w4.12all.tv:4000/play/bein1fr/index.m3u8
+#EXTINF:-1,BeinSports3 FR
+http://w4.12all.tv:4000/play/bein3fr/index.m3u8
+#EXTINF:-1,BT SPORT2 EN
+http://w4.12all.tv:4000/play/btsport2/index.m3u8
+#EXTINF:-1,BTSPORT3 EN
+http://w4.12all.tv:4000/play/btsport3/index.m3u8
+#EXTINF:-1,SkySports1 EN
+http://w4.12all.tv:4000/play/ssports1/index.m3u8
+#EXTINF:-1,SkySports4 EN
+http://w4.12all.tv:4000/play/skysports4/index.m3u8
+#EXTINF:-1,SkySports f1 EN
+http://w4.12all.tv:4000/play/ssportsf1/index.m3u8
+#EXTINF:-1,ESPN ES
+http://45.162.135.1:1080/play/a098
+#EXTINF:-1,ESPN ES
+http://45.71.185.142:8500/play/a01e
+#EXTINF:-1,ESPN VIVO ES
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+#EXTINF:-1,ESPN ES-AR
+http://45.162.135.1:1080/play/a046
+#EXTINF:-1,ESPN +
+http://45.162.135.1:1080/play/a077
+#EXTINF:-1,ESPNHD ES
+http://45.162.135.1:1080/play/a0at
+#EXTINF:-1,ESPN Chile
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+#EXTINF:-1,ESPN+ EN
+http://45.162.135.1:1080/play/a077
+#EXTINF:-1,ESPN2 ES
+http://45.162.135.1:1080/play/a099
+#EXTINF:-1,ESPN2
+http://45.71.185.142:8500/play/a015
+#EXTINF:-1,ESPN2 ES
+http://45.162.135.1:1080/play/a03g
+#EXTINF:-1,ESPN2HD ES
+http://45.162.135.1:1080/play/a0av
+#EXTINF:-1,ESPN2 Latin
+http://45.162.135.1:1080/play/a045
+#EXTINF:-1,ESPN3 ES
+http://45.162.135.1:1080/play/a08j
+#EXTINF:-1,ESPN3 ES
+http://45.162.135.1:1080/play/a03w
+#EXTINF:-1,ESPN3HD ES
+http://200.24.132.99:8000/play/a02w
+#EXTINF:-1,ESPN3HD EN
+http://45.162.135.1:1080/play/a0au
+#EXTINF:-1,ESPN4 ES
+http://45.162.135.1:1080/play/a0a7
+#EXTINF:-1,ESPN4 ES
+http://45.71.185.142:8500/play/a021
+#EXTINF:-1,ESPN4HD ES
+http://45.162.135.1:1080/play/a0ap
+#EXTINF:-1,FoxSports2 ES
+http://45.71.185.142:8500/play/a01n
+#EXTINF:-1,FoxSports2 ES
+http://45.162.135.1:1080/play/a08k
+#EXTINF:-1,FoxSports2 ES
+http://45.162.135.1:1080/play/a04e
+#EXTINF:-1,FOXSports2 HD ES
+http://45.162.135.1:1080/play/a09j
+#EXTINF:-1,FoxSports3 ES
+http://45.71.185.142:8500/play/a01o
+#EXTINF:-1,FoxSports3 ES
+http://45.162.135.1:1080/play/a06v
+#EXTINF:-1,FoxSports3 ES
+http://45.162.135.1:1080/play/a04f
+#EXTINF:-1,FoxSports3 HD ES
+http://45.162.135.1:1080/play/a0aw
+#EXTINF:-1,FoxSports Premium ES
+http://45.162.135.1:1080/play/a038
+#EXTINF:-1,GOLTV PERU ES
+http://45.162.135.1:1080/play/a047
+#EXTINF:-1,GolTV PERU ES
+http://45.71.185.142:8500/play/a03b
+#EXTINF:-1,TyC AR
+http://45.162.135.1:1080/play/a048
+#EXTINF:-1, TyCSportsPlay AR
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
+#EXTINF:-1,TyC SPORT PLAY 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
+#EXTINF:-1,TyCSPORTPLAY 6
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
+#EXTINF:-1,TYCSPORTSPLAY
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
+#EXTINF:-1,TvLIGA MX
+https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
+#EXTINF:-1,DirectTV Sports
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1, DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1,beIN SPORTS EXTRA Ñ
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1,Dubai Sports EAU
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/HasBahCa.m3u8
+#EXTINF:-1,Dubai Sports 1 EAU
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Dubai Sports 3 EAU
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,Edge Sport EN
+https://edgesports-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Eurosport EN
+http://78.83.191.18:8000/play/a05y
+#EXTINF:-1,HorizonSports ITA
+https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
+#EXTINF:-1,HorizonSports
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3559cc0f-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=IT&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1,TNT SPORTS 1 HD ES
+http://21929815.rossteleccom.net/iptv/YPNZVQAPG8URBF/19051/index.m3u8
+#EXTINF:-1,TNT SPORTS 2 HD PT
+http://21929815.rossteleccom.net/iptv/YPNZVQAPG8URBF/19052/index.m3u8
+#EXTINF:-1,TNT SPORTS 3 HD PT
+http://21929815.rossteleccom.net/iptv/YPNZVQAPG8URBF/19053/index.m3u8
+#EXTINF:-1,TNT SPORTS 4 HD PT
+http://21929815.rossteleccom.net/iptv/YPNZVQAPG8URBF/19054/index.m3u8
+#EXTINF:-1,TNT SPORTS 6 HD PT
+http://21929815.rossteleccom.net/iptv/YPNZVQAPG8URBF/19055/index.m3u8
+#EXTINF:-1,Latin America Sport
+http://45.162.135.1:1080/play/a08l
+#EXTINF:-1,Tigo Sports HD
+http://45.162.135.1:1080/play/a09h
+#EXTINF:-1,DEPORTV - 24.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1,Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_sleng.m3u8
+#EXTINF:-1,Edge Sport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,TELETRAK
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1,Fox Sports 2 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1,Unbeaten
+https://unbeaten-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,USA | EDGE SPORT
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1,USA | STADIUM
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1,Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,San Marino RTV
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+#EXTINF:-1,SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1,KBP SPORTS
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
